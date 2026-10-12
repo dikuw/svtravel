@@ -1,0 +1,597 @@
+[
+  {
+    "id": "stay_001",
+    "startDate": "2023-04-30",
+    "endDate": "2023-05-27",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_002",
+    "startDate": "2023-05-27",
+    "endDate": "2023-05-29",
+    "city": "Cartagena",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_003",
+    "startDate": "2023-05-29",
+    "endDate": "2023-07-21",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_004",
+    "startDate": "2023-07-21",
+    "endDate": "2023-07-23",
+    "city": "Guatapé",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_005",
+    "startDate": "2023-07-23",
+    "endDate": "2023-07-29",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_006",
+    "startDate": "2023-07-29",
+    "endDate": "2023-08-05",
+    "city": "Panama City",
+    "country": "Panama"
+  },
+  {
+    "id": "stay_007",
+    "startDate": "2023-08-05",
+    "endDate": "2023-08-05",
+    "city": "San Blas",
+    "country": "Panama"
+  },
+  {
+    "id": "stay_008",
+    "startDate": "2023-08-05",
+    "endDate": "2023-08-12",
+    "city": "Panama City",
+    "country": "Panama"
+  },
+  {
+    "id": "stay_009",
+    "startDate": "2023-08-12",
+    "endDate": "2023-09-01",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_010",
+    "startDate": "2023-09-01",
+    "endDate": "2023-09-04",
+    "city": "Puerto Vallarta",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_011",
+    "startDate": "2023-09-04",
+    "endDate": "2023-09-09",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_012",
+    "startDate": "2023-09-09",
+    "endDate": "2023-10-14",
+    "city": "Lima",
+    "country": "Peru"
+  },
+  {
+    "id": "stay_013",
+    "startDate": "2023-10-14",
+    "endDate": "2023-10-20",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_014",
+    "startDate": "2023-10-20",
+    "endDate": "2023-10-22",
+    "city": "Tulum",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_015",
+    "startDate": "2023-10-22",
+    "endDate": "2023-11-21",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_016",
+    "startDate": "2023-11-21",
+    "endDate": "2023-11-27",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "stay_017",
+    "startDate": "2023-11-27",
+    "endDate": "2023-12-02",
+    "city": "Amsterdam",
+    "country": "Netherlands"
+  },
+  {
+    "id": "stay_018",
+    "startDate": "2023-12-02",
+    "endDate": "2023-12-09",
+    "city": "Bogotá",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_019",
+    "startDate": "2023-12-09",
+    "endDate": "2024-02-09",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_020",
+    "startDate": "2024-02-09",
+    "endDate": "2024-02-11",
+    "city": "Santa Elena",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_021",
+    "startDate": "2024-02-11",
+    "endDate": "2024-03-01",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_022",
+    "startDate": "2024-03-01",
+    "endDate": "2024-03-16",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": "stay_023",
+    "startDate": "2024-03-16",
+    "endDate": "2024-03-18",
+    "city": "Toledo",
+    "country": "Spain"
+  },
+  {
+    "id": "stay_024",
+    "startDate": "2024-03-18",
+    "endDate": "2024-04-06",
+    "city": "Madrid",
+    "country": "Spain"
+  },
+  {
+    "id": "stay_025",
+    "startDate": "2024-04-06",
+    "endDate": "2024-04-13",
+    "city": "Marrakesh",
+    "country": "Morocco"
+  },
+  {
+    "id": "stay_026",
+    "startDate": "2024-04-13",
+    "endDate": "2024-04-27",
+    "city": "Athens",
+    "country": "Greece"
+  },
+  {
+    "id": "stay_027",
+    "startDate": "2024-04-27",
+    "endDate": "2024-04-29",
+    "city": "Santorini",
+    "country": "Greece"
+  },
+  {
+    "id": "stay_028",
+    "startDate": "2024-04-29",
+    "endDate": "2024-05-04",
+    "city": "Athens",
+    "country": "Greece"
+  },
+  {
+    "id": "stay_029",
+    "startDate": "2024-05-04",
+    "endDate": "2024-05-06",
+    "city": "Rome",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_030",
+    "startDate": "2024-05-06",
+    "endDate": "2024-05-18",
+    "city": "Florence",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_031",
+    "startDate": "2024-05-18",
+    "endDate": "2024-05-20",
+    "city": "Venice",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_032",
+    "startDate": "2024-05-20",
+    "endDate": "2024-05-25",
+    "city": "Florence",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_033",
+    "startDate": "2024-05-25",
+    "endDate": "2024-05-27",
+    "city": "Siena",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_034",
+    "startDate": "2024-05-27",
+    "endDate": "2024-06-01",
+    "city": "Florence",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_035",
+    "startDate": "2024-06-01",
+    "endDate": "2024-06-02",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": "stay_036",
+    "startDate": "2024-06-02",
+    "endDate": "2024-06-29",
+    "city": "Mexico City",
+    "country": "Mexico"
+  },
+  {
+    "id": "stay_037",
+    "startDate": "2024-06-29",
+    "endDate": "2024-11-22",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_038",
+    "startDate": "2024-11-23",
+    "endDate": "2024-11-25",
+    "city": "London",
+    "country": "United Kingdom"
+  },
+  {
+    "id": "stay_039",
+    "startDate": "2024-11-25",
+    "endDate": "2024-12-01",
+    "city": "Tromsø",
+    "country": "Norway"
+  },
+  {
+    "id": "stay_040",
+    "startDate": "2024-12-01",
+    "endDate": "2024-12-08",
+    "city": "Berlin",
+    "country": "Germany"
+  },
+  {
+    "id": "stay_041",
+    "startDate": "2024-12-08",
+    "endDate": "2024-12-14",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "id": "stay_042",
+    "startDate": "2024-12-14",
+    "endDate": "2024-12-14",
+    "city": "Ventimiglia",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_043",
+    "startDate": "2024-12-14",
+    "endDate": "2024-12-15",
+    "city": "Sanremo",
+    "country": "Italy"
+  },
+  {
+    "id": "stay_044",
+    "startDate": "2024-12-15",
+    "endDate": "2024-12-21",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "id": "stay_045",
+    "startDate": "2024-12-21",
+    "endDate": "2024-12-21",
+    "city": "Cannes",
+    "country": "France"
+  },
+  {
+    "id": "stay_046",
+    "startDate": "2024-12-21",
+    "endDate": "2024-12-23",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "id": "stay_047",
+    "startDate": "2024-12-23",
+    "endDate": "2024-12-23",
+    "city": "Antibes",
+    "country": "France"
+  },
+  {
+    "id": "stay_048",
+    "startDate": "2024-12-23",
+    "endDate": "2024-12-26",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "id": "stay_049",
+    "startDate": "2024-12-26",
+    "endDate": "2024-12-26",
+    "city": "Villefranche-sur-Mer",
+    "country": "France"
+  },
+  {
+    "id": "stay_050",
+    "startDate": "2024-12-26",
+    "endDate": "2024-12-27",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "id": "stay_051",
+    "startDate": "2024-12-27",
+    "endDate": "2024-12-27",
+    "city": "Monaco",
+    "country": "Monaco"
+  },
+  {
+    "id": "stay_052",
+    "startDate": "2024-12-27",
+    "endDate": "2024-12-31",
+    "city": "Nice",
+    "country": "France"
+  },
+  {
+    "id": "stay_053",
+    "startDate": "2024-12-31",
+    "endDate": "2025-01-04",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "stay_054",
+    "startDate": "2025-01-04",
+    "endDate": "2025-01-11",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "id": "stay_055",
+    "startDate": "2025-01-11",
+    "endDate": "2025-01-13",
+    "city": "Budapest",
+    "country": "Hungary"
+  },
+  {
+    "id": "stay_056",
+    "startDate": "2025-01-13",
+    "endDate": "2025-01-18",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "id": "stay_057",
+    "startDate": "2025-01-18",
+    "endDate": "2025-01-21",
+    "city": "Prague",
+    "country": "Czechia"
+  },
+  {
+    "id": "stay_058",
+    "startDate": "2025-01-21",
+    "endDate": "2025-01-25",
+    "city": "Vienna",
+    "country": "Austria"
+  },
+  {
+    "id": "stay_059",
+    "startDate": "2025-01-25",
+    "endDate": "2025-02-03",
+    "city": "Barcelona",
+    "country": "Spain"
+  },
+  {
+    "id": "stay_060",
+    "startDate": "2025-02-03",
+    "endDate": "2025-02-08",
+    "city": "Lisbon",
+    "country": "Portugal"
+  },
+  {
+    "id": "stay_061",
+    "startDate": "2025-02-08",
+    "endDate": "2025-03-08",
+    "city": "Rio de Janeiro",
+    "country": "Brazil"
+  },
+  {
+    "id": "stay_062",
+    "startDate": "2025-03-08",
+    "endDate": "2025-03-21",
+    "city": "Florianópolis",
+    "country": "Brazil"
+  },
+  {
+    "id": "stay_063",
+    "startDate": "2025-03-21",
+    "endDate": "2025-04-12",
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "id": "stay_064",
+    "startDate": "2025-04-12",
+    "endDate": "2025-04-13",
+    "city": "Colonia del Sacramento",
+    "country": "Uruguay"
+  },
+  {
+    "id": "stay_065",
+    "startDate": "2025-04-13",
+    "endDate": "2025-04-26",
+    "city": "Buenos Aires",
+    "country": "Argentina"
+  },
+  {
+    "id": "stay_066",
+    "startDate": "2025-04-26",
+    "endDate": "2026-01-03",
+    "city": "Bogotá",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_067",
+    "startDate": "2026-01-03",
+    "endDate": "2026-01-10",
+    "city": "Quito",
+    "country": "Ecuador"
+  },
+  {
+    "id": "stay_068",
+    "startDate": "2026-01-10",
+    "endDate": "2026-05-27",
+    "city": "Medellín",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_069",
+    "startDate": "2026-05-27",
+    "endDate": "2026-06-02",
+    "city": "Bogotá",
+    "country": "Colombia"
+  },
+  {
+    "id": "stay_070",
+    "startDate": "2026-06-02",
+    "endDate": "2026-06-03",
+    "city": "Paris",
+    "country": "France"
+  },
+  {
+    "id": "stay_071",
+    "startDate": "2026-06-04",
+    "endDate": "2026-06-12",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_072",
+    "startDate": "2026-06-12",
+    "endDate": "2026-06-15",
+    "city": "Chiang Mai",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_073",
+    "startDate": "2026-06-15",
+    "endDate": "2026-06-18",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_074",
+    "startDate": "2026-06-18",
+    "endDate": "2026-06-22",
+    "city": "Koh Tao",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_075",
+    "startDate": "2026-06-22",
+    "endDate": "2026-07-03",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_076",
+    "startDate": "2026-07-03",
+    "endDate": "2026-07-17",
+    "city": "Bali",
+    "country": "Indonesia"
+  },
+  {
+    "id": "stay_077",
+    "startDate": "2026-07-17",
+    "endDate": "2026-07-20",
+    "city": "Labuan Bajo",
+    "country": "Indonesia"
+  },
+  {
+    "id": "stay_078",
+    "startDate": "2026-07-20",
+    "endDate": "2026-08-01",
+    "city": "Bali",
+    "country": "Indonesia"
+  },
+  {
+    "id": "stay_079",
+    "startDate": "2026-08-01",
+    "endDate": "2026-08-07",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam"
+  },
+  {
+    "id": "stay_080",
+    "startDate": "2026-08-07",
+    "endDate": "2026-08-10",
+    "city": "Da Nang",
+    "country": "Vietnam"
+  },
+  {
+    "id": "stay_081",
+    "startDate": "2026-08-10",
+    "endDate": "2026-08-14",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam"
+  },
+  {
+    "id": "stay_082",
+    "startDate": "2026-08-14",
+    "endDate": "2026-08-17",
+    "city": "Siem Reap",
+    "country": "Cambodia"
+  },
+  {
+    "id": "stay_083",
+    "startDate": "2026-08-17",
+    "endDate": "2026-08-29",
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam"
+  },
+  {
+    "id": "stay_084",
+    "startDate": "2026-08-29",
+    "endDate": "2026-08-31",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_085",
+    "startDate": "2026-08-31",
+    "endDate": "2026-10-20",
+    "city": "Hua Hin",
+    "country": "Thailand"
+  }
+]
