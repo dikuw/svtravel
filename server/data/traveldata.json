@@ -590,8 +590,29 @@
   {
     "id": "stay_085",
     "startDate": "2026-08-31",
-    "endDate": "2026-10-20",
+    "endDate": "2026-10-19",
     "city": "Hua Hin",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_086",
+    "startDate": "2026-10-19",
+    "endDate": "2026-10-20",
+    "city": "Bangkok",
+    "country": "Thailand"
+  },
+  {
+    "id": "stay_087", 
+    "startDate": "2026-10-20",
+    "endDate": "2026-11-26",
+    "city": "Da Nang",
+    "country": "Vietnam"
+  },
+  {
+    "id": "stay_088",
+    "startDate": "2026-11-26",
+    "endDate": "2026-12-02",
+    "city": "Bangkok",
     "country": "Thailand"
   }
 ]
